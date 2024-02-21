@@ -1,0 +1,19 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100%;
+
+    nav ul {
+        display: flex;
+        justify-content: space-between;
+        list-style-type: none;
+        background-color: #d3d3d3;
+    }
+
+    nav a {
+        text-decoration: none;
+        padding: 10px;
+        color: #333;
+        font-weight: bold;
+    }
+
+}
